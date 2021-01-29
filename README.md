@@ -1,1 +1,1 @@
-# Octopus: A lightweight JS library that makes sense
+# Octopus: A minimal, declarative JS library for building user interfaces. 
