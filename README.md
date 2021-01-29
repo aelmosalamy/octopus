@@ -1,0 +1,1 @@
+# Octopus: A lightweight JS library that makes sense
